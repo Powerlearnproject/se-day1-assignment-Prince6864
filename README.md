@@ -27,7 +27,7 @@ Efficiency: Good software engineering practices aim to create software that is e
 
 Innovation and Competitiveness: The tech industry thrives on innovation, and software engineering provides the tools and processes necessary to build new technologies, from mobile apps to artificial intelligence. Without skilled software engineers, companies cannot stay competitive in an increasingly tech-driven world.
 
-Cost-Effective Development: Well-planned software engineering reduces waste by focusing on efficient use of time, resources, and budget. The result is software that delivers value to both developers and users, while reducing the need for expensive revisions or fixes later.
+Cost-Effective Development: Well-planned software engineering reduces waste by focusing on efficient use of time, resources, and budget. The result is software that delivers value to both developers and users, while reducing the need for expensive revisions or fixes later. 
 
 Team Collaboration: Software engineering fosters collaboration among different roles (e.g., designers, testers, product managers) to create a product that meets all requirements. Agile methodologies and version control systems ensure smooth team communication and coordination.
 
