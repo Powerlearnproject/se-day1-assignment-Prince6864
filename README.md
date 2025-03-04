@@ -5,8 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
-Software engineering is the discipline of designing, developing, testing, and maintaining software systems. It applies engineering principles to the entire software development lifecycle, focusing on the creation of reliable, scalable, and efficient software solutions. Software engineers work with various programming languages, frameworks, tools, and methodologies to deliver products that meet user needs, ensure quality, and are easy to maintain.
+-Software engineering is the discipline of designing, developing, testing, and maintaining software systems. It applies engineering principles to the entire software development lifecycle, focusing on the creation of reliable, scalable, and efficient software solutions. Software engineers work with various programming languages, frameworks, tools, and methodologies to deliver products that meet user needs, ensure quality, and are easy to maintain.
 
 Here’s a breakdown of the key elements of software engineering:
 
